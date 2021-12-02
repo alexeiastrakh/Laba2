@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<EventsDataBase>
+<Event
+NAME = " hmmhmcgn"
+START = "09.09.2019"
+END = "19.09.2019"
+LOCATION = "prospekt Akademika Hlushkova"
+FACULTY = "fakultet biologii"
+PARTICIPATIONPRICE = "150"
+RESPONSIBLEPERSON = "Budzanivska I.H." >
+</Event>
+</EventsDataBase>

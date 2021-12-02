@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<EventsDataBase>
+  <Event
+    Value="International"
+    Name=" The International 2018"
+    StartDate="15 August 2018"
+    EndDate=" 25 August 2018"
+    Country="Canada"
+    City=" Vancouver"
+    PrizePool="25532177"
+    DPCPointc=" None"
+    Winner="OG"
+    RunnerUp=" PSG.LGD"
+    NumberOfTeams="18">
+  </Event>
+  <Event
+   Value="Minor"
+   Name=" DreamLeague Season 10"
+   StartDate="29 October 2018"
+   EndDate=" 4 November 2018"
+   Country="Sweden"
+   City=" Stockholm"
+   PrizePool="300000"
+   DPCPointc="500"
+   Winner="Tigers"
+   RunnerUp="Natus Vincere"
+   NumberOfTeams="8">
+  </Event>
+  <Event
+   Value="Major"
+   Name=" The Kuala Lumpur Major"
+   StartDate="9 Novemver 2018"
+   EndDate="18 November 2018"
+   Country="Malaysia"
+   City=" Kuala Lumpur"
+   PrizePool="1000000"
+   DPCPointc="15000"
+   Winner="Virtus Pro"
+   RunnerUp="Team Secret"
+   NumberOfTeams="16">
+  </Event>
+  <Event
+ Value="Minor"
+ Name="The Bucharest Minor"
+ StartDate="9 January 2018"
+ EndDate="13 January 2018"
+ Country="Romania"
+ City="Bucharest"
+ PrizePool="300000"
+ DPCPointc="500"
+ Winner="EHOME"
+ RunnerUp="Gambit"
+ NumberOfTeams="8">
+  </Event>
+  <Event
+   Value="Major"
+   Name=" The Chongqing Major"
+   StartDate="19 January 2018"
+   EndDate="27 January 2018"
+   Country="China"
+   City="Chongqing"
+   PrizePool="1000000"
+   DPCPointc="15000"
+   Winner="Team Secret"
+   RunnerUp="Virtus Pro"
+   NumberOfTeams="16">
+  </Event>
+  <Event
+ Value="Minor"
+ Name="StarLadder ImbaTV Dota 2 Minor Season 1"
+ StartDate="7 March 2019"
+ EndDate="10 March 2019"
+ Country="Ukraine"
+ City="Kyiv"
+ PrizePool="300000"
+ DPCPointc="500"
+ Winner="Vici Gaming"
+ RunnerUp="Gambit"
+ NumberOfTeams="8">
+  </Event>
+  <Event
+   Value="Major"
+   Name="DreamLeague Season 11"
+   StartDate="14 March 2019"
+   EndDate="24 March 2019"
+   Country="Sweden"
+   City="Stockholm"
+   PrizePool="1000000"
+   DPCPointc="15000"
+   Winner="Vici Gaming"
+   RunnerUp="Virtus Pro"
+   NumberOfTeams="16">
+  </Event>
+  <Event
+ Value="Minor"
+ Name="OGA Dota PIT Minor 2019"
+ StartDate="22 April 2019"
+ EndDate="28 April 2019"
+ Country="Croatia"
+ City="Split"
+ PrizePool="300000"
+ DPCPointc="500"
+ Winner="Ninjas in Pyjamas"
+ RunnerUp="EHOME"
+ NumberOfTeams="8">
+  </Event>
+  <Event
+ Value="Major"
+ Name="MDL DisneyLand Paris Major"
+ StartDate="4 May 2019"
+ EndDate="12 May 2019"
+ Country="France"
+ City="Paris"
+ PrizePool="1000000"
+ DPCPointc="15000"
+ Winner="Team Secret"
+ RunnerUp="Team Liquid"
+ NumberOfTeams="16">
+  </Event>
+  <Event
+ Value="Minor"
+ Name="StarLadder ImbaTV Dota 2 Minor Season 2"
+ StartDate="12 June 2019"
+ EndDate="16 June 2019"
+ Country="Ukraine"
+ City="Kyiv"
+ PrizePool="300000"
+ DPCPointc="500"
+ Winner="Ninjas in Pyjamas"
+ RunnerUp="Alliance"
+ NumberOfTeams="8">
+  </Event>
+  <Event
+ Value="Major"
+ Name="EPICENTER Major 2019"
+ StartDate="22 June 2019"
+ EndDate="30 June 2019"
+ Country="Russia"
+ City="Moscow"
+ PrizePool="1000000"
+ DPCPointc="15000"
+ Winner="Vici Gaming"
+ RunnerUp="Team Liquid"
+ NumberOfTeams="16">
+  </Event>
+  <Event
+    Value="International"
+    Name=" The International 2019"
+    StartDate="15 August 2019"
+    EndDate=" 25 August 2019"
+    Country="China"
+    City="Shanghai"
+    PrizePool="34330068"
+    DPCPointc=" None"
+    Winner="OG"
+    RunnerUp="Team Liquid"
+    NumberOfTeams="18">
+  </Event>
+  <Event
+   Value="International"
+   Name=" The International 2011"
+   StartDate="17 August 2011"
+   EndDate=" 21 August 2011"
+   Country="Germany"
+   City="Cologne"
+   PrizePool="1600000"
+   DPCPointc=" None"
+   Winner="Natus Vincere"
+   RunnerUp="EHOME"
+   NumberOfTeams="16">
+  </Event>
+  <Event
+   Value="International"
+   Name=" The International 2012"
+   StartDate="26 August 2012"
+   EndDate=" 2 September 2012"
+   Country="USA"
+   City="Seattle"
+   PrizePool="1600000"
+   DPCPointc=" None"
+   Winner="Invictus Gaming"
+   RunnerUp="Natus Vincere"
+   NumberOfTeams="16">
+  </Event>
+  <Event
+ Value="International"
+ Name=" The International 2013"
+ StartDate="2 August 2013"
+ EndDate=" 11 August 2013"
+ Country="USA"
+ City="Seattle"
+ PrizePool="2874380"
+ DPCPointc=" None"
+ Winner="Alliance"
+ RunnerUp="Natus Vincere"
+ NumberOfTeams="16">
+  </Event>
+  <Event
+ Value="International"
+ Name=" The International 2014"
+ StartDate="8 July 2014"
+ EndDate=" 21 July 2014"
+ Country="USA"
+ City="Seattle"
+ PrizePool="10923977"
+ DPCPointc=" None"
+ Winner="Newbee"
+ RunnerUp="Vici Gaming"
+ NumberOfTeams="19">
+  </Event>
+  <Event
+ Value="International"
+ Name=" The International 2015"
+ StartDate="27 July 2015"
+ EndDate=" 8 August 2015"
+ Country="USA"
+ City="Seattle"
+ PrizePool="18429613"
+ DPCPointc=" None"
+ Winner="Evil Geniuses"
+ RunnerUp="CDEC Gaming"
+ NumberOfTeams="16">
+  </Event>
+  <Event
+ Value="International"
+ Name=" The International 2016"
+ StartDate="2 August 2016"
+ EndDate="13 August 2016"
+ Country="USA"
+ City="Seattle"
+ PrizePool="20770460"
+ DPCPointc=" None"
+ Winner="Wings Gaming"
+ RunnerUp="Digital Chaos"
+ NumberOfTeams="16">
+  </Event>
+  <Event
+ Value="International"
+ Name=" The International 2017"
+ StartDate="2 August 2017"
+ EndDate="12 August 2017"
+ Country="USA"
+ City="Seattle"
+ PrizePool="24787916"
+ DPCPointc=" None"
+ Winner="Team Liquid"
+ RunnerUp="Newbee"
+ NumberOfTeams="18">
+  </Event>
+</EventsDataBase>

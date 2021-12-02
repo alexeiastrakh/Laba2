@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<EventsDataBase>
+  <Event
+  
+  NAME=" Mizhnarodna naukova konferentsiia CTS «Zistavni ta perekladoznavchi studii»"
+  START="15.03.2019"
+  END=" 10.04.2019"
+  LOCATION="m. Kyiv, vul. Volodymyrska, 60"
+ FACULTY="Instytut filolohii"
+ PARTICIPATIONPRICE="bezkoshtovna"
+  RESPONSIBLEPERSON=" Slavova L.L">
+
+  </Event>
+  <Event
+   
+   NAME="Molodizhna viiskova nauka u Kyivskomu natsionalnomu universyteti imeni Tarasa Shevchenka"
+   START="01.04.2019"
+   END="30.04.2019"
+   LOCATION="vulytsia Mykhaila Lomonosova, 81"
+   FACULTY="Viiskovyi instytut"
+   PARTICIPATIONPRICE="bezkoshtovna"
+  RESPONSIBLEPERSON="Melnyk Y.I">
+
+  </Event>
+  <Event
+ 
+ NAME=" Viiskova psykholohiia u vymirakh viiny i myru: problemy, dosvid, perspektyvy"
+ START="05.04.2019"
+ END="06.04.2019"
+ LOCATION="prospekt Akademika Hlushkova, 2A"
+ FACULTY="Fakultet psykholohii"
+PARTICIPATIONPRICE="100"
+RESPONSIBLEPERSON="Kovalenko A.B.">
+
+  </Event>
+  <Event
+
+ NAME=" Problemy kiberbezpeky informatsiino-telekomunikatsiinykh system» (PCSICS)"
+ START="11.04.2019"
+ END=" 12.04.2019"
+ LOCATION="vulytsia Bohdana Havrylyshyna, 24"
+ FACULTY="Fakultet informatsiinykh tekhnolohii"
+ PARTICIPATIONPRICE="200"
+ RESPONSIBLEPERSON=" Nakonechnyi V.S.">
+
+  </Event>
+  <Event
+ 
+ NAME=" Social Data Analysis 2019 "
+ START="15.04.2019"
+ END="15.05.2019"
+ LOCATION="vulytsia Pyrohova, 7a"
+ FACULTY="Fakultet sotsiolohii"
+ PARTICIPATIONPRICE="300"
+ RESPONSIBLEPERSON=" Zhukov V.I.">
+
+  </Event>
+  <Event
+ 
+ NAME=" Suchasni problemy nauk pro Zemliu"
+ START="16.04.2019"
+ END="19.04.2019"
+ LOCATION="vulytsia Mykhaila Lomonosova, 62"
+ FACULTY="NNI «Instytut heolohii»"
+ PARTICIPATIONPRICE="bezkoshtovna"
+ RESPONSIBLEPERSON=" Bezrodna I.M.">
+
+  </Event>
+  <Event
+ 
+ NAME=" Novitni tendentsii v mediahaluzi"
+ START="16.04.2019"
+ END="16.05.2019"
+ LOCATION="vulytsia Yuriia Illienka, 36/1"
+ FACULTY="Instytut zhurnalistyky"
+  PARTICIPATIONPRICE="100"
+ RESPONSIBLEPERSON=" Tsymbalenko Y.S.">
+
+  </Event>
+  <Event
+   
+    NAME=" Astronomiia ta fizyka kosmosu"
+    START="22.04.2019"
+    END=" 27.04.2019"
+   LOCATION="prospekt Akademika Hlushkova, 4"
+    FACULTY="Fizychnyi fakultet"
+     PARTICIPATIONPRICE="100"
+   RESPONSIBLEPERSON=" Ivchenko V.M ">
+
+  </Event>
+  <Event
+  
+  NAME=" Problemy rozvytku sotsiolohichnoi teorii"
+  START="26.04.2019"
+  END=" 29.04.2019"
+  LOCATION="vulytsia Pyrohova, 7a"
+  FACULTY="Fakultet sotsiolohii"
+  PARTICIPATIONPRICE="200"
+ RESPONSIBLEPERSON=" Zhukov V.I">
+
+  </Event>
+  <Event
+
+   NAME="Nauka XXI storichchia: suchasni problemy fizyky"
+   START="14.05.2019"
+   END="16.05.2019"
+   LOCATION="prospekt Akademika Hlushkova, 4"
+   FACULTY="Fizychnyi fakultet"
+  PARTICIPATIONPRICE="100"
+  RESPONSIBLEPERSON="Makarets M.V.">
+  </Event>
+  <Event
+
+   NAME=" Bioresursy ta virusy"
+   START="09.09.2019"
+   END="19.09.2019"
+   LOCATION="prospekt Akademika Hlushkova, 8"
+  FACULTY="fakultet biologii"
+  PARTICIPATIONPRICE="150"
+  RESPONSIBLEPERSON="Budzanivska I.H.">
+  </Event>
+  <Event
+
+   NAME=" hmmhmcgn"
+   START="09.09.2019"
+   END="19.09.2019"
+   LOCATION="prospekt Akademika Hlushkova"
+  FACULTY="fakultet biologii"
+  PARTICIPATIONPRICE="150"
+  RESPONSIBLEPERSON="Budzanivska I.H.">
+  </Event>
+</EventsDataBase>
